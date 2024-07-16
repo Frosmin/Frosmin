@@ -50,6 +50,13 @@
 </table>
 <!--- stats (end) -->
 
+## Contribution Graph 📊
+
+[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Frosmin&theme=high-contrast)](https://github.com/Frosmin/github-readme-activity-graph)
+
+
+
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
