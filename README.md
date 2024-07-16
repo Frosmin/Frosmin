@@ -15,6 +15,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Myxogastria0808/Myxogastria0808/main/dist/snake/github-contribution-grid-snake" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
