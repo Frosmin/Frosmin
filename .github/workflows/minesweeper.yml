@@ -34,8 +34,8 @@ jobs:
       working-directory: ./MineSweeper/MineSweeper/bin/Release/net5.0 
     - name: Git
       run: |
-        git config user.name evaristocuesta
-        git config user.email evaristocg@gmail.com
+        git config user.name Frosmin
+        git config user.email simonabastomart@gmail.com
         git add README.md
         git add ./MineSweeper/Game/game.xml
         git add ./MineSweeper/Game/last-moves.xml
