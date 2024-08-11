@@ -1,0 +1,44 @@
+name: "Minesweeper"
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'revealcell|') || startsWith(github.event.issue.title, 'flagcell|') || startsWith(github.event.issue.title, 'newgame')
+    steps:
+    - uses: actions/checkout@v2
+    - name: Close Issue
+      uses: peter-evans/close-issue@v1
+      with:
+        comment: Auto-closing this issue.
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 5.0.x
+    - name: Restore dependencies
+      run: dotnet restore MineSweeper
+    - name: Build
+      run: dotnet build --no-restore --configuration Release MineSweeper
+    - uses: rishabhgupta/split-by@v1
+      id: split
+      with:
+        string: ${{ github.event.issue.title }}
+        split-by: '|'  
+    - name: Execute
+      run: | 
+        echo "Command: ${{ github.event.issue.user.login }} ${{ steps.split.outputs._0 }} - Cell(${{ steps.split.outputs._1 }}, ${{ steps.split.outputs._2 }})"
+        dotnet run --configuration Release --verbosity m --project ../../../MineSweeper.csproj -- ${{ github.event.issue.user.login }} ${{ steps.split.outputs._0 }} ${{ steps.split.outputs._1 }} ${{ steps.split.outputs._2 }}
+      working-directory: ./MineSweeper/MineSweeper/bin/Release/net5.0 
+    - name: Git
+      run: |
+        git config user.name evaristocuesta
+        git config user.email evaristocg@gmail.com
+        git add README.md
+        git add ./MineSweeper/Game/game.xml
+        git add ./MineSweeper/Game/last-moves.xml
+        git add ./MineSweeper/Game/top-moves.xml
+        git diff --quiet && git diff --staged --quiet || git commit -m "[MineSweeper] README.md updated"
+        git push origin master

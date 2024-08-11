@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfLastMoves xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LastMoves>
+    <Move>revealcell(0, 0)</Move>
+    <User>Lstrappare</User>
+    <DateTime>2024-07-20T00:18:10.3730591+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>newgame</Move>
+    <User>Lstrappare</User>
+    <DateTime>2024-07-19T19:55:53.7633475+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>revealcell(6, 6)</Move>
+    <User>Lstrappare</User>
+    <DateTime>2024-07-19T19:54:16.6575157+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>revealcell(5, 5)</Move>
+    <User>Lstrappare</User>
+    <DateTime>2024-07-19T19:53:29.7938197+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>revealcell(6, 5)</Move>
+    <User>Frosmin</User>
+    <DateTime>2024-07-16T15:13:33.8477775+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>flagcell(0, 7)</Move>
+    <User>Lhy-x</User>
+    <DateTime>2024-06-26T10:13:18.3683828+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>flagcell(6, 0)</Move>
+    <User>Lhy-x</User>
+    <DateTime>2024-06-26T10:12:44.6789465+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>flagcell(0, 2)</Move>
+    <User>Lhy-x</User>
+    <DateTime>2024-06-26T10:11:28.6801478+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>revealcell(0, 0)</Move>
+    <User>Lhy-x</User>
+    <DateTime>2024-06-26T10:09:54.0950188+00:00</DateTime>
+  </LastMoves>
+  <LastMoves>
+    <Move>newgame</Move>
+    <User>Lhy-x</User>
+    <DateTime>2024-06-26T10:08:49.0015236+00:00</DateTime>
+  </LastMoves>
+</ArrayOfLastMoves>

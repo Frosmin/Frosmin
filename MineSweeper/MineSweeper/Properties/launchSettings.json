@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MineSweeper": {
+      "commandName": "Project",
+      "commandLineArgs": "xxxxx revealcell 9 0"
+    }
+  }
+}
