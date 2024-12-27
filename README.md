@@ -120,7 +120,8 @@
 [Verificación del certificado](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)}
 
 ![image](https://github.com/user-attachments/assets/1010fde8-7354-4bb8-8205-a8a328b50b8e)
-https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f
+[Verificación del certificado]([https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34](https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f))}
+
 
 |   |   |   |   |   |   |   |   |   |   |
 | - | - | - | - | - | - | - | - | - | - |
