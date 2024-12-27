@@ -116,9 +116,8 @@
 
 
 ----------------------------------------------------------------------
-
-- ![CCNA Badge](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)  
-  [Verificación del certificado](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)
+![image](https://github.com/user-attachments/assets/0ebf9139-9d27-4beb-b938-f21ec79c592b)
+[Verificación del certificado](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)
 
 |   |   |   |   |   |   |   |   |   |   |
 | - | - | - | - | - | - | - | - | - | - |
