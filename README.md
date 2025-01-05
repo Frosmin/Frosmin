@@ -115,22 +115,35 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-----------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/0ebf9139-9d27-4beb-b938-f21ec79c592b)
-[Verificación del certificado](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)
+## 🏆 Certifications
 
-![image](https://github.com/user-attachments/assets/1010fde8-7354-4bb8-8205-a8a328b50b8e)
-[Verificación del certificado](https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34">
+        <img src="https://github.com/user-attachments/assets/0ebf9139-9d27-4beb-b938-f21ec79c592b" width="200px" alt="Certificate 1"/>
+        <br />
+        <sub><b>Switching, Routing & Wireless Essentials</b></sub>
+      </a>
+      <br />
+      <sub>Issued: 2024</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f">
+        <img src="https://github.com/user-attachments/assets/1010fde8-7354-4bb8-8205-a8a328b50b8e" width="200px" alt="Certificate 2"/>
+        <br />
+        <sub><b>Introduction to Networks</b></sub>
+      </a>
+      <br />
+      <sub>Issued: 2024</sub>
+    </td>
+  </tr>
+</table>
 
+<details>
+<summary>🔍 View Certificate Details</summary>
 
-|   |   |   |   |   |   |   |   |   |   |
-| - | - | - | - | - | - | - | - | - | - |
+- **AWS Cloud Practitioner**: [Verify Certificate](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)
+- **Azure Fundamentals**: [Verify Certificate](https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f)
 
-### Last Moves
-| User | Move |
-| - | - |
-
-
-### Top Moves
-| User | Moves |
-| - | - |
+</details>
