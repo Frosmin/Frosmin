@@ -143,7 +143,7 @@
 <details>
 <summary>🔍 View Certificate Details</summary>
 
-- **AWS Cloud Practitioner**: [Verify Certificate](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)
-- **Azure Fundamentals**: [Verify Certificate](https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f)
+- **Switching, Routing & Wireless Essentials**: [Verify Certificate](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)
+- **Introduction to Networks**: [Verify Certificate](https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f)
 
 </details>
