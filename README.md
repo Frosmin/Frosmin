@@ -136,6 +136,15 @@
       <br />
       <sub>Issued: 2024</sub>
     </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f">
+        <img src="https://github.com/user-attachments/assets/09a9ffad-e2ee-44f8-ab28-d6339394fe82" width="200px" alt="Certificate 2"/>
+        <br />
+        <sub><b>Introduction to Networks</b></sub>
+      </a>
+      <br />
+      <sub>Issued: 2024</sub>
+    </td>
   </tr>
 </table>
 
