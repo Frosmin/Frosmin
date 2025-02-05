@@ -138,7 +138,7 @@
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f">
-        <img src="https://github.com/user-attachments/assets/09a9ffad-e2ee-44f8-ab28-d6339394fe82" width="200px" alt="Certificate 2"/>
+        <img src="https://github.com/user-attachments/assets/9be5294a-69ba-49f1-a304-57977d72e0cb" width="200px" alt="Certificate 2"/>
         <br />
         <sub><b>Introduction to Networks</b></sub>
       </a>
