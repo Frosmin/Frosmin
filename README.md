@@ -120,7 +120,7 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34">
-        <img src="https://github.com/user-attachments/assets/0ebf9139-9d27-4beb-b938-f21ec79c592b" width="200px" alt="Certificate 1"/>
+        <img src="https://github.com/user-attachments/assets/ac0320f9-77d0-4041-9558-6a58e471285c" width="200px" alt="Certificate 1"/>
         <br />
         <sub><b>Switching, Routing & Wireless Essentials</b></sub>
       </a>
@@ -130,9 +130,6 @@
     <td align="center">
       <a href="https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f">
         <img src="https://github.com/user-attachments/assets/889e5a50-a65b-4a05-a51a-fa24564b6251" width="200px" alt="Certificate 2"/>
-
-
-
         <br />
         <sub><b>Introduction to Networks</b></sub>
       </a>
