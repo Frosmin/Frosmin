@@ -137,10 +137,10 @@
       <sub>Issued: 2024</sub>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f">
+      <a href="https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60">
         <img src="https://github.com/user-attachments/assets/f951f4b0-9a1a-42a6-bef7-566c25e04968" width="200px" alt="Certificate 2"/>
         <br />
-        <sub><b>Introduction to Networks</b></sub>
+        <sub><b>Introduction to Cybersecurity</b></sub>
       </a>
       <br />
       <sub>Issued: 2024</sub>
@@ -153,5 +153,6 @@
 
 - **Switching, Routing & Wireless Essentials**: [Verify Certificate](https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34)
 - **Introduction to Networks**: [Verify Certificate](https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f)
+- - **Introduction to Cybersecurity**: [Verify Certificate](https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60)
 
 </details>
