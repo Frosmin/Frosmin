@@ -138,7 +138,7 @@
     </td>
       <td align="center">
       <a href="https://www.credly.com/badges/fc62b7c4-8ade-42ba-9681-a4d2b333e19c">
-        <img width="340" height="340" alt="ccna3" src="https://github.com/user-attachments/assets/4eb22d0b-a64d-48a4-bbfb-a5c714063400" width="200px" alt="Certificate 2"/>
+        <img src="https://github.com/user-attachments/assets/4eb22d0b-a64d-48a4-bbfb-a5c714063400" width="200px" alt="Certificate 2"/>
         <br />
         <sub><b>Enterprise Networking, Security, and Automation</b></sub>
       </a>
