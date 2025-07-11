@@ -146,7 +146,6 @@
       <sub>Issued: 2025</sub>
     </td>
   </tr>
-</table>
     <td align="center">
       <a href="https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60">
         <img src="https://github.com/user-attachments/assets/f951f4b0-9a1a-42a6-bef7-566c25e04968" width="200px" alt="Certificate 3"/>
