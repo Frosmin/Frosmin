@@ -120,7 +120,7 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34">
-        <img src="https://github.com/user-attachments/assets/ac0320f9-77d0-4041-9558-6a58e471285c" width="40%" alt="Certificate 1"/>
+        <img src="https://github.com/user-attachments/assets/ac0320f9-77d0-4041-9558-6a58e471285c" width="100%" alt="Certificate 1"/>
         <br />
         <sub><b>Switching, Routing & Wireless Essentials</b></sub>
       </a>
@@ -129,7 +129,7 @@
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f">
-        <img src="https://github.com/user-attachments/assets/889e5a50-a65b-4a05-a51a-fa24564b6251" width="40%" alt="Certificate 2"/>
+        <img src="https://github.com/user-attachments/assets/889e5a50-a65b-4a05-a51a-fa24564b6251" width="100%" alt="Certificate 2"/>
         <br />
         <sub><b>Introduction to Networks</b></sub>
       </a>
@@ -138,7 +138,7 @@
     </td>
       <td align="center">
       <a href="https://www.credly.com/badges/fc62b7c4-8ade-42ba-9681-a4d2b333e19c">
-        <img src="https://github.com/user-attachments/assets/4eb22d0b-a64d-48a4-bbfb-a5c714063400" width="40%" alt="Certificate 2"/>
+        <img src="https://github.com/user-attachments/assets/4eb22d0b-a64d-48a4-bbfb-a5c714063400" width="100%" alt="Certificate 2"/>
         <br />
         <sub><b>Enterprise Networking, Security, and Automation</b></sub>
       </a>
@@ -148,7 +148,7 @@
   </tr>
     <td align="center">
       <a href="https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60">
-        <img src="https://github.com/user-attachments/assets/f951f4b0-9a1a-42a6-bef7-566c25e04968" width="40%" alt="Certificate 3"/>
+        <img src="https://github.com/user-attachments/assets/f951f4b0-9a1a-42a6-bef7-566c25e04968" width="100%" alt="Certificate 3"/>
         <br />
         <sub><b>Introduction to Cybersecurity</b></sub>
       </a>
