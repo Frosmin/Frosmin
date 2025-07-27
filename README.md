@@ -21,10 +21,6 @@
   </ul>
 </div>
 
-
-
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –   my username!
 <!--Intro end-->
 
 
