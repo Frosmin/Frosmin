@@ -19,6 +19,17 @@
 
 <!--Intro end-->
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/a0e62976-a602-4cec-830d-d518581b0593" width="160"/>
+  <img src="https://github.com/user-attachments/assets/a0e62976-a602-4cec-830d-d518581b0593" width="160"/>
+  <img src="https://github.com/user-attachments/assets/a0e62976-a602-4cec-830d-d518581b0593" width="160"/>
+  <img src="https://github.com/user-attachments/assets/a0e62976-a602-4cec-830d-d518581b0593" width="160"/>
+  <img src="https://github.com/user-attachments/assets/a0e62976-a602-4cec-830d-d518581b0593" width="160"/>
+  <img src="https://github.com/user-attachments/assets/a0e62976-a602-4cec-830d-d518581b0593" width="160"/>
+</div>
+
+
+
 
 
 <!--- stats & Trophy (start) -->
