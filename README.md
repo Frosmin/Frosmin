@@ -181,6 +181,18 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/69e51729-765c-43e5-8c96-57a395c11cd1" width="160"/>
+  <img src="https://github.com/user-attachments/assets/69e51729-765c-43e5-8c96-57a395c11cd1" width="160"/>
+  <img src="https://github.com/user-attachments/assets/69e51729-765c-43e5-8c96-57a395c11cd1" width="160"/>
+  <img src="https://github.com/user-attachments/assets/69e51729-765c-43e5-8c96-57a395c11cd1" width="160"/>
+  <img src="https://github.com/user-attachments/assets/69e51729-765c-43e5-8c96-57a395c11cd1" width="160"/>
+</div>
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=give%20me%20a%20star🫠&section=footer&fontAlign=50&animation=fadeIn&fontColor=FFFF&fontSize=80&fontAlignY=52&desc=⭐️⭐️⭐️⭐️⭐️&descAlign=50&descSize=35&textBg=false&descAlignY=78"/>
 </p>
