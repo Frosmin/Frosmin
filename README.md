@@ -104,7 +104,7 @@
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
+<img src="https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif" width="1000"/>
 
 <!--profile visit count-->
 <div align="center">
@@ -160,7 +160,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
