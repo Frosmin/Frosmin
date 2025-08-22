@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Simon%20%20🫡🫡&section=header&fontAlign=50&animation=fadeIn&fontColor=FFFF&fontSize=100&fontAlignY=40&desc=:D&descAlign=50&descSize=50&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Simon%20%20🫡🫡&section=header&fontAlign=50&animation=fadeIn&fontColor=FFFF&fontSize=100&fontAlignY=40&D&descAlign=50&descSize=50&textBg=false"/>
 </p>
 
 <!--horizontal divider(gradiant)-->
