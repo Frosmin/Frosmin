@@ -1,13 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Simon%20%20🫡🫡&section=header&fontAlign=50&animation=fadeIn&fontColor=FFFF&fontSize=100&fontAlignY=40&desc=:D&descAlign=50&descSize=50&textBg=false"/>
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Simon</h1></summary>
-  </ul>
-</div>
 
 ![GitHub Snake Light](https://github.com/Frosmin/Frosmin/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Frosmin/Frosmin/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -168,3 +164,9 @@
 - **Introduction to Cybersecurity**: [Verify Certificate](https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60)
 
 </details>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=give%20me%20a%20star🫠&section=footer&fontAlign=50&animation=fadeIn&fontColor=FFFF&fontSize=80&fontAlignY=52&desc=⭐️⭐️⭐️⭐️⭐️&descAlign=50&descSize=35&textBg=false&descAlignY=78"/>
+</p>
