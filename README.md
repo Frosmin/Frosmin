@@ -167,10 +167,10 @@
       <a href="https://www.credly.com/badges/93209dcf-4f8f-4c23-a667-ef03a537726f/public_url">
         <img src="https://github.com/user-attachments/assets/7b1e4f2d-ab27-4089-a49a-ef58149c2727" width="100%" alt="Certificate 3"/>
         <br />
-        <sub><b>Introduction to Cybersecurity</b></sub>
+        <sub><b>Google Cloud Computing Foundations Certificate</b></sub>
       </a>
       <br />
-      <sub>Issued: 2024</sub>
+      <sub>Issued: 2025</sub>
     </td>
         <td align="center">
       <a href="https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60">
