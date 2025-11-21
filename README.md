@@ -125,7 +125,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/e23dac3c-5d76-4a6a-9595-ef6118d22f34">
         <img src="https://github.com/user-attachments/assets/ac0320f9-77d0-4041-9558-6a58e471285c" width="100%" alt="Certificate 1"/>
         <br />
@@ -134,7 +134,7 @@
       <br />
       <sub>Issued: 2024</sub>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/a71c1d65-d297-4ded-97f0-ebfecc9e6a4f">
         <img src="https://github.com/user-attachments/assets/889e5a50-a65b-4a05-a51a-fa24564b6251" width="100%" alt="Certificate 2"/>
         <br />
@@ -143,9 +143,9 @@
       <br />
       <sub>Issued: 2024</sub>
     </td>
-      <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/fc62b7c4-8ade-42ba-9681-a4d2b333e19c">
-        <img src="https://github.com/user-attachments/assets/4eb22d0b-a64d-48a4-bbfb-a5c714063400" width="100%" alt="Certificate 2"/>
+        <img src="https://github.com/user-attachments/assets/4eb22d0b-a64d-48a4-bbfb-a5c714063400" width="100%" alt="Certificate 3"/>
         <br />
         <sub><b>Enterprise Networking, Security, and Automation</b></sub>
       </a>
@@ -154,27 +154,27 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60">
-        <img src="https://github.com/user-attachments/assets/f951f4b0-9a1a-42a6-bef7-566c25e04968" width="100%" alt="Certificate 3"/>
+        <img src="https://github.com/user-attachments/assets/f951f4b0-9a1a-42a6-bef7-566c25e04968" width="100%" alt="Certificate 4"/>
         <br />
         <sub><b>Introduction to Cybersecurity</b></sub>
       </a>
       <br />
       <sub>Issued: 2024</sub>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/93209dcf-4f8f-4c23-a667-ef03a537726f/public_url">
-        <img src="https://github.com/user-attachments/assets/7b1e4f2d-ab27-4089-a49a-ef58149c2727" width="100%" alt="Certificate 3"/>
+        <img src="https://github.com/user-attachments/assets/7b1e4f2d-ab27-4089-a49a-ef58149c2727" width="100%" alt="Certificate 5"/>
         <br />
         <sub><b>Google Cloud Computing Foundations Certificate</b></sub>
       </a>
       <br />
       <sub>Issued: 2025</sub>
     </td>
-        <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/360d4e16-e1b3-4c4c-9a1e-a94e33acc834/public_url">
-        <img src="https://github.com/user-attachments/assets/fc74d7b0-4d46-4d53-a611-53c22edab7e7" width="100%" alt="Certificate 3"/>
+        <img src="https://github.com/user-attachments/assets/fc74d7b0-4d46-4d53-a611-53c22edab7e7" width="100%" alt="Certificate 6"/>
         <br />
         <sub><b>Build a Secure Google Cloud Network Skill Badge</b></sub>
       </a>
@@ -185,7 +185,6 @@
 </table>
 
 
-<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/fc74d7b0-4d46-4d53-a611-53c22edab7e7" />
 
 
 
