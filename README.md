@@ -173,18 +173,19 @@
       <sub>Issued: 2025</sub>
     </td>
         <td align="center">
-      <a href="https://www.credly.com/badges/d8ddc5bd-a774-4365-82c3-eab239248a60">
-        <img src=src="https://github.com/user-attachments/assets/7b1e4f2d-ab27-4089-a49a-ef58149c2727" width="100%" alt="Certificate 3"/>
+      <a href="https://www.credly.com/badges/360d4e16-e1b3-4c4c-9a1e-a94e33acc834/public_url">
+        <img src="https://github.com/user-attachments/assets/fc74d7b0-4d46-4d53-a611-53c22edab7e7" width="100%" alt="Certificate 3"/>
         <br />
-        <sub><b>Introduction to Cybersecurity</b></sub>
+        <sub><b>Build a Secure Google Cloud Network Skill Badge</b></sub>
       </a>
       <br />
-      <sub>Issued: 2024</sub>
+      <sub>Issued: 2025</sub>
     </td>
   </tr>
 </table>
 
 
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/fc74d7b0-4d46-4d53-a611-53c22edab7e7" />
 
 
 
