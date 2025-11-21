@@ -182,7 +182,38 @@
       <sub>Issued: 2025</sub>
     </td>
   </tr>
+  <tr>
+  <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/4c303ed9-502c-499c-bfc4-63aaae76623c/public_url">
+        <img src="https://github.com/user-attachments/assets/7ab06f5f-83bd-4b4f-913a-7219b7b66af4" width="100%" alt="Certificate 6"/>
+        <br />
+        <sub><b>Implement Load Balancing on Compute Engine Skill Badge</b></sub>
+      </a>
+      <br />
+      <sub>Issued: 2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/360d4e16-e1b3-4c4c-9a1e-a94e33acc834/public_url">
+        <img src="https://github.com/user-attachments/assets/fc74d7b0-4d46-4d53-a611-53c22edab7e7" width="100%" alt="Certificate 6"/>
+        <br />
+        <sub><b>Build a Secure Google Cloud Network Skill Badge</b></sub>
+      </a>
+      <br />
+      <sub>Issued: 2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/360d4e16-e1b3-4c4c-9a1e-a94e33acc834/public_url">
+        <img src="https://github.com/user-attachments/assets/fc74d7b0-4d46-4d53-a611-53c22edab7e7" width="100%" alt="Certificate 6"/>
+        <br />
+        <sub><b>Build a Secure Google Cloud Network Skill Badge</b></sub>
+      </a>
+      <br />
+      <sub>Issued: 2025</sub>
+    </td>
+    
+  </tr>
 </table>
+
 
 
 
