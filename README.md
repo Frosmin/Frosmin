@@ -236,6 +236,10 @@
 
 
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" width="500" />
+</p>
+
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/69e51729-765c-43e5-8c96-57a395c11cd1" width="160"/>
   <img src="https://github.com/user-attachments/assets/69e51729-765c-43e5-8c96-57a395c11cd1" width="160"/>
@@ -245,9 +249,7 @@
 </div>
 
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" width="500" />
-</p>
+
 
 
 <p align="center">
