@@ -12,10 +12,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming 🤔</h2></summary>
-  </ul>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Confusion+is+part+of+Programming+🤔;Full+Stack+Developer+🚀;Network+Engineering+Student+📡;Always+Learning+New+Tech+📚" alt="Typing SVG" />
+  </a>
 </div>
 
 <!--Intro end-->
