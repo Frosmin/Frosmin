@@ -14,7 +14,7 @@
 <!--h2 without bottom border-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=CConfusion+is+part+of+Programming+🤔;Full+Stack+Developer+🚀;NNetwork+Engineering+Student+📡;Always+Learning+New+Tech+📚" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=CConfusion+is+part+of+Programming+🤔;Full+Stack+Developer+🚀;NNetwork+Engineering+Student+📡;Always+Learning+New+Tech+📚" alt="Typing SVG" />
   </a>
 </div>
 
