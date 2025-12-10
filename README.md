@@ -52,6 +52,8 @@
   </td>
 </tr>
 </table>
+
+
 <!--- stats (end) -->
 <div id="user-content-toc">
   <ul align="center">
@@ -65,6 +67,7 @@
 
 
 <!--- trophy (start) -->
+
 
 <!--- trophy (start) -->
 
@@ -242,6 +245,9 @@
 </div>
 
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" width="500" />
+</p>
 
 
 <p align="center">
