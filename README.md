@@ -41,8 +41,7 @@
   
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Frosmin&theme=dark&show_icons=true&count_private=true" alt="Frosmin GitHub Stats" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frosmin&theme=dark" alt="Profile Details" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Frosmin&theme=dark&hide_border=false" /> 
+  <img src="https://streak-stats.demolab.com?user=Frosmin&theme=dark&hide_border=false" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
