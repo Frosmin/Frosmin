@@ -68,7 +68,7 @@
 
 <!--- trophy (start) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Frosmin/Frosmin/main/profile-3d-contrib/profile-rogue.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Frosmin/Frosmin/master/profile-3d-contrib/profile-rogue.svg" alt="3D Contribution Graph" />
 </div>
       
 <!--- stats (end) -->
