@@ -68,13 +68,7 @@
 
 <!--- trophy (start) -->
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Frosmin&header=false&theme=rogue" alt="3D Contrib" />
-</div>
-
-<!--- trophy (start) -->
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Frosmin&header=false&theme=rogue" alt="3D Contrib" />
+  <img src="https://raw.githubusercontent.com/Frosmin/Frosmin/main/profile-3d-contrib/profile-rogue.svg" alt="3D Contribution Graph" />
 </div>
       
 <!--- stats (end) -->
