@@ -40,7 +40,8 @@
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Frosmin&theme=dark&show_icons=true&count_private=true" alt="Frosmin GitHub Stats" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frosmin&theme=dark" alt="Profile Details" />
-  <img src="ttps://github-readme-streak-stats-eight-rose.vercel.app?user=Frosmin&theme=dark&hide_border=false&sideNums=35EB23&stroke=EBB021&ring=EBBC19" alt="GitHub Streak" />
+  <br></br>
+  <img src="https://github-readme-streak-stats-eight-rose.vercel.app?user=Frosmin&theme=dark&hide_border=false&sideNums=35EB23&stroke=EBB021&ring=EBBC19" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
