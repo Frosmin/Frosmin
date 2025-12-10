@@ -67,7 +67,9 @@
 
 
 <!--- trophy (start) -->
-
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Frosmin&header=false&theme=rogue" alt="3D Contrib" />
+</div>
 
 <!--- trophy (start) -->
 
